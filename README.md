@@ -2,9 +2,6 @@
 
 A simple Java implementation of a vending machine using the State design pattern and Singleton Design Pattern
 
-![Uploading Screenshot 2025-09-28 at 7.14.11 PM.png…]()
-
-
 ## Folder Structure
 
 - `Main.java` - Entry point for running the vending machine simulation.
